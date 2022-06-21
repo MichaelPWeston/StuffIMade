@@ -6,7 +6,6 @@ class FizzBuzz
     {
         int x, y;
         
-        
         Console.WriteLine("Please enter first value:");
         x = Convert.ToInt32(Console.ReadLine());
         
