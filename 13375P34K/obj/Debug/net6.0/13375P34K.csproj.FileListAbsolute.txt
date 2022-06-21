@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\13375P34K.exe
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\13375P34K.deps.json
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\13375P34K.runtimeconfig.json
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\13375P34K.dll
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\ref\13375P34K.dll
+C:\Users\Michael\source\repos\13375P34K\13375P34K\bin\Debug\net6.0\13375P34K.pdb
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.AssemblyInfo.cs
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.dll
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\ref\13375P34K.dll
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.pdb
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.genruntimeconfig.cache
+C:\Users\Michael\source\repos\13375P34K\13375P34K\obj\Debug\net6.0\13375P34K.csproj.AssemblyReference.cache
