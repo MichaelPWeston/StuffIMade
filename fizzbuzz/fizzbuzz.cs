@@ -5,10 +5,11 @@ class FizzBuzz
     static void Main()
     {
         int x, y;
-        Console.WriteLine("Please enter first value:");
-
         
+        
+        Console.WriteLine("Please enter first value:");
         x = Convert.ToInt32(Console.ReadLine());
+        
         Console.WriteLine("Please enter second value");
         y = Convert.ToInt32(Console.ReadLine());
         
